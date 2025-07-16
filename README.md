@@ -21,7 +21,7 @@ nikto
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/multiscan.git
+   git clone https://github.com/JakeDowski/multiscan.git
    cd multiscan
    ```
 
